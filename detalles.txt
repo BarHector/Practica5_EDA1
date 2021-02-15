@@ -1,0 +1,8 @@
+1. Modificar el código pila.c para que funcione la Pila con datos ingresados 
+    por el usuario considerando el menú con las opciones de: PUSH, POP e Imprimir Pila
+2. Modificar el código cola.c para que funcione la Cola con datos ingresados 
+    por el usuario considerando el menú con las opciones de: QUEUE, DEQUEUE e Imprimir Cola
+
+Detalles
+En cola.c, la funcion de imprimir no se estaba considerando el uso de apuntadores de apuntadores.
+Por lo tanto se modificó esa parte en practica_5_c.c
